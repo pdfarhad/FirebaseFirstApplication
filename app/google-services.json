@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "523195222302",
+    "firebase_url": "https://fir-firstapp-ada63.firebaseio.com",
+    "project_id": "fir-firstapp-ada63",
+    "storage_bucket": "fir-firstapp-ada63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523195222302:android:ff20ce07f39ef767",
+        "android_client_info": {
+          "package_name": "com.example.farhad.firebasefirstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523195222302-29t709c1afgf580fvnaf6qtm7k32lhms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8pnSbMG20ppSgsT8anMFJE5eUGlISzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
